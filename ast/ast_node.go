@@ -3,7 +3,7 @@ package ast
 import (
 	"fmt"
 
-	"github.com/wlevene/ini/token"
+	"github.com/mykola2312/ini/token"
 )
 
 type SetcionNode struct {

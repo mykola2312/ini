@@ -3,8 +3,8 @@ package scanner
 import (
 	"fmt"
 
-	"github.com/wlevene/ini/lexer"
-	"github.com/wlevene/ini/parser"
+	"github.com/mykola2312/ini/lexer"
+	"github.com/mykola2312/ini/parser"
 )
 
 type Scanner struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/wlevene/ini/scanner"
+	"github.com/mykola2312/ini/scanner"
 )
 
 func TestIniParse(t *testing.T) {

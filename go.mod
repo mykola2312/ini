@@ -1,4 +1,4 @@
-module github.com/wlevene/ini
+module github.com/mykola2312/ini
 
 go 1.16
 

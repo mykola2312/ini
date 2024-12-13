@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/wlevene/ini/ast"
-	"github.com/wlevene/ini/lexer"
-	"github.com/wlevene/ini/parser"
-	"github.com/wlevene/ini/token"
+	"github.com/mykola2312/ini/ast"
+	"github.com/mykola2312/ini/lexer"
+	"github.com/mykola2312/ini/parser"
+	"github.com/mykola2312/ini/token"
 
 	"github.com/fsnotify/fsnotify"
 )
